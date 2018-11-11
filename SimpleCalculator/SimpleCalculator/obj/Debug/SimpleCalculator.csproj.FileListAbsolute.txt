@@ -1,0 +1,10 @@
+D:\Documents\College\Summer 2018\C#\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\Documents\College\Summer 2018\C#\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\Documents\College\Summer 2018\C#\SimpleCalculator\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\Documents\College\Summer 2018\C#\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+D:\Documents\College\Summer 2018\C#\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+D:\Documents\College\Summer 2018\C#\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+D:\Documents\College\Summer 2018\C#\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Documents\College\Summer 2018\C#\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\Documents\College\Summer 2018\C#\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+D:\Documents\College\Summer 2018\C#\SimpleCalculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Calculator.resources
